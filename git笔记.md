@@ -25,7 +25,7 @@
 
 	git clone git@github.com:ghzphy/XXX.git
 
-也可以用https://github.com/ghzphy/XXX.git这样的地址，不过这种速度慢，而且每次推送都必须输入口令。但是在某些只开放http端口的公司内部就无法使用ssh协议而只能用https。
+也可以用 https://github.com/ghzphy/XXX.git 这样的地址，不过这种速度慢，而且每次推送都必须输入口令。但是在某些只开放http端口的公司内部就无法使用ssh协议而只能用https。
 
 - 常用命令
 
